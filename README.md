@@ -1,1 +1,10 @@
 # rwt-img-fusion
+
+
+Install dependencies
+   
+    pip install -r requirements.txt 
+
+Run
+
+    python main.py --folder 'Patient Data/group1'
